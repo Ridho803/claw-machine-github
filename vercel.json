@@ -1,7 +1,7 @@
 {
   "version":2,
   "builds": [
-    { "src": "claw-machine.js", "use": "@vercel/node" }
+    { "src": "*claw-machine.js", "use": "@vercel/node" }
   ],
   "routes": [
     {
